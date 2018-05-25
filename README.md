@@ -15,12 +15,14 @@ Development
    - ES7
    - NPM,Yarn
    - NodeJS
+   - Grunt, Gulp
    - Webpack,Parcel
    
    - ReactJS
    - ReactJS 16.x
    - React Dev Tools
    - Jest enzyme
+   - Selenium
    
    - React Native
    - PWAs
