@@ -27,6 +27,9 @@ Development
    - PWAs
    
  - Back-End
+   - Rails
+   - Go
+   - Python
    - GraphQL
    
  - Devops
