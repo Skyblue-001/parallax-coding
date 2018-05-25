@@ -27,6 +27,7 @@ Development
    - React Native
    - PWAs
  - Back-End
+   - GraphQL
  - Devops
 
 
