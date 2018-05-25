@@ -18,16 +18,17 @@ Development
    - Grunt, Gulp
    - Webpack,Parcel
    
-   - ReactJS
-   - ReactJS 16.x
+   - ReactJS & ReactJS 16.x
    - React Dev Tools
    - Jest enzyme
    - Selenium
    
    - React Native
    - PWAs
+   
  - Back-End
    - GraphQL
+   
  - Devops
 
 
