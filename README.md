@@ -13,9 +13,9 @@ Development
    - 2018 Javascript
    - ES6
    - ES7
-   - NPM, Yarn
+   - NPM,Yarn
    - NodeJS
-   - Webpack, Parcel
+   - Webpack,Parcel
    
    - ReactJS
    - ReactJS 16.x
