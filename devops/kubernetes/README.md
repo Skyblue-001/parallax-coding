@@ -1,1 +1,1 @@
-https://github.com/TeddyGhim/parallax-coding/blob/master/kubernetes.md
+http://woowabros.github.io/experience/2018/03/13/k8s-test.html
