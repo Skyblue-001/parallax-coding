@@ -33,6 +33,8 @@ Development
    - GraphQL
    
  - Devops
+   - Kubernetes
+   - Docker Compose
 
 
 
