@@ -34,8 +34,4 @@ Development
    
  - Devops
    - [Kubernetes](https://github.com/TeddyGhim/parallax-coding/blob/master/devops/kubernetes/README.md)
-   - Docker Compose
-
-
-
-
+   - [Docker Compose](https://github.com/TeddyGhim/parallax-coding/blob/master/devops/docker-compose/README.md)
