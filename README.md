@@ -33,7 +33,7 @@ Development
    - GraphQL
    
  - Devops
-   - Kubernetes
+   - [Kubernetes](https://github.com/TeddyGhim/parallax-coding/blob/master/devops/kubernetes/README.md)
    - Docker Compose
 
 
