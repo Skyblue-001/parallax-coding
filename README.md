@@ -3,9 +3,17 @@
 
 
 Planning
+ - Trello(Agile Kanban)
+ - Google Sprint
+ - JIRA
+ - Confluence
+ - Slack
 
-
-Design
+Design(UX/UI)
+ - Adobe XD
+ - Zeplin
+ - Sketch
+ - Lottie
 
 
 Development
