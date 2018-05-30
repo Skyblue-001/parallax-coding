@@ -8,4 +8,7 @@
 	tree  =  "!git log --graph --decorate --pretty=format:'%C(yellow)%h %Cred%cr %Cblue(%an)%C(cyan)%d%Creset %s' --abbrev-commit --all"
 ###
 
- - vscode(!)
+ - vscode
+ // code .
+ // lint
+ 
