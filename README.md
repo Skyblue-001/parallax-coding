@@ -19,6 +19,7 @@ Development
  - Front-End
    - 2018 Javascript
    - Typescript
+   - RxJS
    - ES6
    - ES7
    - Vanila
@@ -27,11 +28,11 @@ Development
    
    - Bower
    
-   - Barbel
+   - Babel
    - Grunt, Gulp
    - Webpack,Parcel
 
-   - ReactJS & ReactJS 16.x
+   - ReactJS 16+
    - React Dev Tools
    - Jest enzyme
    - Selenium
@@ -46,10 +47,10 @@ Development
    - PWAs
    
    - Prettier
-   - ESLINT
+   - TSLint
    
  - Back-End
-   - AWS Basic EC2, S3, RDS, DynamoDB, CloudFront, Route 53, Lamda
+   - AWS EC2, S3, RDS, DynamoDB, CloudFront, Route 53, Lamda, SQS, Beanstalk
    - Aliyun
    - Nginx + Unicorn
    - Rails(BackOffice)
@@ -62,7 +63,7 @@ Development
    - Redis cache
    
  - Devops
-   - Jenkins
+   - Github PR -> Circle CI or Jenkins , Peer Review -> Production
    - Heroku
    - CodeClimate
    - [Kubernetes](https://github.com/TeddyGhim/parallax-coding/blob/master/devops/kubernetes/README.md)
