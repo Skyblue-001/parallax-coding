@@ -34,6 +34,8 @@ Development
    - React Native
    - PWAs
    
+   - Prettier
+   
  - Back-End
    - Rails
    - Go
