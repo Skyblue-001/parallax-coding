@@ -36,7 +36,7 @@ Development
    - Jest enzyme
    - Selenium
    
-   - SASS
+   - SCSS
    - FlexBox
    - Styled Components
 
